@@ -1,0 +1,2 @@
+# fricosk
+Pokusy merania energie
